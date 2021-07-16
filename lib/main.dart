@@ -1,6 +1,8 @@
 import 'package:flutter/material.dart';
+import 'package:pf_flutter_core/pf_flutter_core.dart';
 
 void main() {
+  PFBloc.bismillah();
   runApp(MyApp());
 }
 
